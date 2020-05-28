@@ -1,0 +1,14 @@
+body {
+    background-color: khaki;
+}
+
+/*Estilo da Canvas no HTML*/
+canvas {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    border-radius: 10px;
+}
